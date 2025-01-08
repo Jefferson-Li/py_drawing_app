@@ -1,5 +1,6 @@
 # py_drawing_app
-
+# 成果圖
+![alt text](image.png)
 # 簡單繪圖程式 (Simple Drawing App)
 
 這是一個使用 Python Tkinter 開發的簡單繪圖應用程式。使用者可以在畫布上自由繪製，並且可以調整筆刷顏色和大小。
